@@ -19,6 +19,11 @@ This Project is from FreeCodeCamp, used to learn about CSS colors and how to use
     - you can the percentage of gradient by adding a percentage beside the color
     - gradient is set to 180 by default
 
+- you can give object shadow with css box-shadow: offsetx offsety blurRadius spreadRadius color;  
+    - offsetx & offsety is the coordinate by which the shadow is offset
+    - blurRadius is how blured the shadow is as it gets to the edge (0 by default)
+    - spreadRadius is how large the shadow is (0 by default)
+
 ## Colors
 ### Primary Colors:
 ![image](PrimaryColors.png)
@@ -45,3 +50,6 @@ This Project is from FreeCodeCamp, used to learn about CSS colors and how to use
 ### Complementary Colors: 
 ![image](ComplementaryColors.png)
 - Cyan and red combine to make white (shade of grey)
+
+### Completed product:
+![image](completed.png)
